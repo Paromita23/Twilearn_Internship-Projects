@@ -30,13 +30,17 @@ Twilearn_Internship Projects
 # PROJECT ALLOCATION 2-
 ## CUSTOMER CHURN PREDICTION-
 Churn By Contract-
+
 ![Churn by Contract](https://github.com/user-attachments/assets/f1e69556-5d21-4c28-8d31-bda29f54ac41)
 
 Churn By Internet Service-
+
 ![Churn by Internet Service](https://github.com/user-attachments/assets/706a90f8-fef7-4a25-a5b0-ba2e809cb478)
 
 Distribution of Monthly Charges by Churn-
+
 ![Distribution of Monthly Charges by Churn](https://github.com/user-attachments/assets/ddfe96b7-4451-4774-b384-99b47a006422)
 
 Correlation Heatmap of Features-
+
 ![Correlation Matrix Heatmap](https://github.com/user-attachments/assets/e96bca64-a9f5-4f8e-a64c-2c972f3a6417)
